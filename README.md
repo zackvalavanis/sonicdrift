@@ -1,0 +1,1 @@
+Backend created using framwork FastAPI. The database is a PostgreSQL db through SQLAlchemy. SQLAlchemy is an object-relational mapping (ORM). This is used to bridge the gap between Object-Oriented programming language and relational databases which in this case is PostgreSQL. 
